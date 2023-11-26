@@ -47,3 +47,8 @@ account expires after 30 minutes ^%_
 
 *Payment completed
 Request log
+
+
+    upload Payment receipt_ sender full name:
+                             for confirmation.
+any error Payment will be cancelled and refunded_^
